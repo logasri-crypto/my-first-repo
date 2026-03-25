@@ -1,0 +1,9 @@
+Hello!
+
+This is my first GitHub file.
+
+Name: LOGASRI ARUMUGAM
+Department: ECE
+College: VSB Engineering College
+
+I am learning GitHub and version control.
